@@ -1,4 +1,4 @@
-# SQL/Project 1
+# SQL: Project 1
 
 ### ScienceQtech Employee Performance Mapping
 
