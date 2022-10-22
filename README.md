@@ -1,6 +1,4 @@
-# SQL: Project 1
-
-### ScienceQtech Employee Performance Mapping
+## ScienceQtech Employee Performance Mapping
 
 DESCRIPTION
 
